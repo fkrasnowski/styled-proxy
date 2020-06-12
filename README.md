@@ -81,7 +81,7 @@ styled.BlueBox = ({ styles }) => {
 };
 ```
 
-As it can be seen it looks pretty similar to standard react component. Styled components have `styles` prop that lets you define many styles for any component. You deliver style to an element by ataching it to `sx` prop
+As it can be seen it looks pretty similar to standard react component. Styled components have `styles` prop that lets you define many styles for any component. You deliver style to an element by attaching it to `sx` prop
 
 ### Add many styles
 
@@ -157,7 +157,7 @@ Use `as` prop to change the element type:
 
 ### Global styles
 
-Daclare `styled.Global` to atach global styles
+Declare `styled.Global` to attach global styles
 
 ```jsx
 const Zilla = 'https://fonts.googleapis.com/css?family=Zilla+Slab&display=swap';
